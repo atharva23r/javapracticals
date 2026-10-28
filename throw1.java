@@ -9,7 +9,7 @@ public class throw1 {
     public static void main(String [] args){
         try {
             checkage(19);
-        } catch (ArithmeticException e) {
+        } catch (Exception e) {
             System.out.println(e.getMessage());
         }
     }

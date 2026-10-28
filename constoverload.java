@@ -20,7 +20,7 @@ class student{
     student(int r , String n){
         this.rollno=r;
         this.name=n;
-
+bitch
     }
     void display(){
         System.out.println("rollno: "+ this.rollno);
